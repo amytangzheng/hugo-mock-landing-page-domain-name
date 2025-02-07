@@ -5,16 +5,16 @@ These are features that are currently implemented in EventSync, and which featur
 ### Illustrated Features
 1. As a busy college student, I want to have event details from my emails and messages sync to my Google Calendar so I can confirm them.
 
-2. As a busy college student, I want events that I cancel over email/text to automatically update so I don't have to manually change my calendar.
+2. As someone wanting to hang out with my friends, I want to be able to share my calendar with my friends so I can get the best suggestion on meeting time instead of using when2meet.
 
-3. As someone wanting to hang out with my friends, I want to be able to share my calendar with my friends so I can get the best suggestion on meeting time instead of using when2meet.
+3. As a busy student, I want recurring events (e.g. "let's meet every Friday") to automatically show up so I don't have to manually create repeat events in my calendar.
 
 ### Other Features
 4. As a student in many different club calendars, I want to be able to hide events on a shared calendar instead of deleting them.
 
 5. As someone who struggles with making concrete plans, I want to be able to turn casual discussions into actual plans with a reminder to finalize vague details.
 
-6. As a busy student, I want recurring events (e.g. "let's meet every Friday") to automatically show up so I don't have to manually create repeat events in my calendar.
+6. As a busy college student, I want events that I cancel over email/text to automatically update so I don't have to manually change my calendar.
 
 ## Potential Features Expansion
 7. As someone who wants to better explore the city, I want to get nearby restaurants or cafes suggestions for my planned events.
