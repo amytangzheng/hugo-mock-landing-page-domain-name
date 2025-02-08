@@ -1,10 +1,10 @@
 .home {
-    --bd-purple: #4c0bce;
-    --bd-violet: #712cf9;
-    --bd-accent: #ffe484;
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
-    --bd-accent-rgb: 255,228,132;
-    --bd-pink-rgb: 214,51,132;
+    --bd-purple: #023d54;
+    --bd-violet: #94dea5;
+    --bd-accent: #ffff66;
+    --bd-violet-rgb: 148, 222, 165;
+    --bd-accent-rgb: 255,225,102;
+    --bd-pink-rgb: 2, 61, 84;
 
     .bd-masthead {
         padding: 3rem 0;
@@ -18,19 +18,19 @@
         --bs-btn-border-color: var(--bd-violet);
         --bs-btn-border-radius: .5rem;
         --bs-btn-hover-color: var(--bs-white);
-        --bs-btn-hover-bg: #6528e0;
-        --bs-btn-hover-border-color: #6528e0;
+        --bs-btn-hover-bg: #023d54;
+        --bs-btn-hover-border-color: #023d54;
         --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
         --bs-btn-active-color: var(--bs-btn-hover-color);
-        --bs-btn-active-bg: #5a23c8;
-        --bs-btn-active-border-color: #5a23c8;
+        --bs-btn-active-bg: #94dea5;
+        --bs-btn-active-border-color: #94dea5;
     }
 }
 
 .navbar {
     @extend .navbar-dark;
 
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
+    --bd-violet-rgb: 2, 61, 84;
     
     padding: .75rem 0;
     background-color: transparent;
@@ -39,7 +39,7 @@
 }
 
 .text-violet {
-    color: #6528e0;
+    color: #023d54;
 }
 
 .list {
