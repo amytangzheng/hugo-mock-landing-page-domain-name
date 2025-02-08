@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = "https://amytangzheng.github.io/hugo-mock-landing-page/"
 title = "EventSync"
-author = "Amy"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+author = "Amy Zheng"
+copyright = "Amy Zheng 2027"
 
 timeZone = 'Europe/London'
 
