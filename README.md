@@ -1,1 +1,2 @@
 # hugo-mock-landing-page
+This GitHub Actions workflow automatically builds and deploys a Hugo website to GitHub Pages. When code is pushed to the main branch, it sets up Hugo with the extended features, builds the site using Hugo's minification and garbage collection, deploys the compiled static files to GitHub Pages via the gh-pages branch. The workflow is configured to handle Hugo themes (via git submodules) and supports custom domains if needed.
