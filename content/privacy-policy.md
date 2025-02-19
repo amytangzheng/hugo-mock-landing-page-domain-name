@@ -36,6 +36,6 @@ All logs are discarded in every release.
 
 ## Contact us
 
-[Contact us](/hugo-bootstrap-theme/contact/) if you have any questions.
+[Open an issue](https://github.com/amytangzheng/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
 
 Effective Date: *15th May 2022*
